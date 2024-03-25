@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+a {
+	text-decoration: none;
+}
+
+input {
+	border: none;
+	outline: none;
+}
+
+body {
+	background: rgba(247, 249, 252, 1);
+}
+
+button {
+	cursor: pointer;
+	border: none;
+	outline: none;
+}

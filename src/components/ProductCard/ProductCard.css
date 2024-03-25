@@ -1,0 +1,11 @@
+.motion h1 {
+	text-align: center;
+	margin-top: 4pc;
+	color: rgba(143, 155, 179, 1);
+	font-family: Montserrat;
+	font-size: 27.28px;
+	font-style: italic;
+	font-weight: 800;
+	line-height: 33.25px;
+	letter-spacing: 0.03em;
+}
